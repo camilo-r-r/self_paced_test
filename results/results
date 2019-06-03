@@ -1,0 +1,234 @@
+#
+# Results on Tuesday May 21 2019 12:58:33 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:66.0) Gecko/20100101 Firefox/66.0
+# Design number was non-random = 5
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1558443513,6a5f873a4df0cb5ef43f0b285396930d,PennController,0,0,instructions1,NULL,PennController,0,_Trial_,Start,1558443481802,NULL
+1558443513,6a5f873a4df0cb5ef43f0b285396930d,PennController,0,0,instructions1,NULL,PennController,0,_Trial_,End,1558443483249,NULL
+1558443513,6a5f873a4df0cb5ef43f0b285396930d,PennController,1,0,info1,NULL,PennController,1,_Trial_,Start,1558443483262,NULL
+1558443513,6a5f873a4df0cb5ef43f0b285396930d,PennController,1,0,info1,NULL,Html,info,name,spanisch,1558443493174,text input
+1558443513,6a5f873a4df0cb5ef43f0b285396930d,PennController,1,0,info1,NULL,Html,info,alter,29,1558443493174,text input
+1558443513,6a5f873a4df0cb5ef43f0b285396930d,PennController,1,0,info1,NULL,Html,info,sex,male,1558443493175,radio button
+1558443513,6a5f873a4df0cb5ef43f0b285396930d,PennController,1,0,info1,NULL,Html,info,hand,left,1558443493175,radio button
+1558443513,6a5f873a4df0cb5ef43f0b285396930d,PennController,1,0,info1,NULL,PennController,1,_Trial_,End,1558443493175,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. item.
+# 14. Comments.
+1558443513,6a5f873a4df0cb5ef43f0b285396930d,PennController,3,0,items,NULL,PennController,3,_Trial_,Start,1558443493182,2,NULL
+1558443513,6a5f873a4df0cb5ef43f0b285396930d,PennController,3,0,items,NULL,Key,1,Key,32,1558443494295,2,NULL
+1558443513,6a5f873a4df0cb5ef43f0b285396930d,PennController,3,0,items,NULL,Key,1,Key,32,1558443494879,2,NULL
+1558443513,6a5f873a4df0cb5ef43f0b285396930d,PennController,3,0,items,NULL,Key,2,Key,32,1558443494879,2,NULL
+1558443513,6a5f873a4df0cb5ef43f0b285396930d,PennController,3,0,items,NULL,Key,1,Key,32,1558443495383,2,NULL
+1558443513,6a5f873a4df0cb5ef43f0b285396930d,PennController,3,0,items,NULL,Key,2,Key,32,1558443495383,2,NULL
+1558443513,6a5f873a4df0cb5ef43f0b285396930d,PennController,3,0,items,NULL,Key,3,Key,32,1558443495383,2,NULL
+1558443513,6a5f873a4df0cb5ef43f0b285396930d,PennController,3,0,items,NULL,Key,1,Key,32,1558443495895,2,NULL
+1558443513,6a5f873a4df0cb5ef43f0b285396930d,PennController,3,0,items,NULL,Key,2,Key,32,1558443495895,2,NULL
+1558443513,6a5f873a4df0cb5ef43f0b285396930d,PennController,3,0,items,NULL,Key,3,Key,32,1558443495895,2,NULL
+1558443513,6a5f873a4df0cb5ef43f0b285396930d,PennController,3,0,items,NULL,Key,1,Key,32,1558443497408,2,NULL
+1558443513,6a5f873a4df0cb5ef43f0b285396930d,PennController,3,0,items,NULL,Key,2,Key,32,1558443497408,2,NULL
+1558443513,6a5f873a4df0cb5ef43f0b285396930d,PennController,3,0,items,NULL,Key,3,Key,32,1558443497408,2,NULL
+1558443513,6a5f873a4df0cb5ef43f0b285396930d,PennController,3,0,items,NULL,PennController,3,_Trial_,End,1558443498687,2,NULL
+1558443513,6a5f873a4df0cb5ef43f0b285396930d,PennController,2,0,items,NULL,PennController,2,_Trial_,Start,1558443498694,1,NULL
+1558443513,6a5f873a4df0cb5ef43f0b285396930d,PennController,2,0,items,NULL,Key,1,Key,32,1558443499295,1,NULL
+1558443513,6a5f873a4df0cb5ef43f0b285396930d,PennController,2,0,items,NULL,Key,1,Key,32,1558443499736,1,NULL
+1558443513,6a5f873a4df0cb5ef43f0b285396930d,PennController,2,0,items,NULL,Key,2,Key,32,1558443499736,1,NULL
+1558443513,6a5f873a4df0cb5ef43f0b285396930d,PennController,2,0,items,NULL,Key,1,Key,32,1558443500607,1,NULL
+1558443513,6a5f873a4df0cb5ef43f0b285396930d,PennController,2,0,items,NULL,Key,2,Key,32,1558443500607,1,NULL
+1558443513,6a5f873a4df0cb5ef43f0b285396930d,PennController,2,0,items,NULL,Key,3,Key,32,1558443500607,1,NULL
+1558443513,6a5f873a4df0cb5ef43f0b285396930d,PennController,2,0,items,NULL,PennController,2,_Trial_,End,1558443503550,1,NULL
+1558443513,6a5f873a4df0cb5ef43f0b285396930d,PennController,5,0,items,NULL,PennController,5,_Trial_,Start,1558443503558,4,NULL
+1558443513,6a5f873a4df0cb5ef43f0b285396930d,PennController,5,0,items,NULL,Key,1,Key,32,1558443504064,4,NULL
+1558443513,6a5f873a4df0cb5ef43f0b285396930d,PennController,5,0,items,NULL,Key,1,Key,32,1558443504687,4,NULL
+1558443513,6a5f873a4df0cb5ef43f0b285396930d,PennController,5,0,items,NULL,Key,2,Key,32,1558443504687,4,NULL
+1558443513,6a5f873a4df0cb5ef43f0b285396930d,PennController,5,0,items,NULL,Key,1,Key,32,1558443505182,4,NULL
+1558443513,6a5f873a4df0cb5ef43f0b285396930d,PennController,5,0,items,NULL,Key,2,Key,32,1558443505182,4,NULL
+1558443513,6a5f873a4df0cb5ef43f0b285396930d,PennController,5,0,items,NULL,Key,3,Key,32,1558443505182,4,NULL
+1558443513,6a5f873a4df0cb5ef43f0b285396930d,PennController,5,0,items,NULL,PennController,5,_Trial_,End,1558443508373,4,NULL
+1558443513,6a5f873a4df0cb5ef43f0b285396930d,PennController,4,0,items,NULL,PennController,4,_Trial_,Start,1558443508379,3,NULL
+1558443513,6a5f873a4df0cb5ef43f0b285396930d,PennController,4,0,items,NULL,Key,1,Key,32,1558443509008,3,NULL
+1558443513,6a5f873a4df0cb5ef43f0b285396930d,PennController,4,0,items,NULL,Key,1,Key,32,1558443509440,3,NULL
+1558443513,6a5f873a4df0cb5ef43f0b285396930d,PennController,4,0,items,NULL,Key,2,Key,32,1558443509440,3,NULL
+1558443513,6a5f873a4df0cb5ef43f0b285396930d,PennController,4,0,items,NULL,Key,1,Key,32,1558443509927,3,NULL
+1558443513,6a5f873a4df0cb5ef43f0b285396930d,PennController,4,0,items,NULL,Key,2,Key,32,1558443509927,3,NULL
+1558443513,6a5f873a4df0cb5ef43f0b285396930d,PennController,4,0,items,NULL,Key,3,Key,32,1558443509927,3,NULL
+1558443513,6a5f873a4df0cb5ef43f0b285396930d,PennController,4,0,items,NULL,PennController,4,_Trial_,End,1558443512760,3,NULL
+#
+# Results on Tuesday May 21 2019 13:02:28 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:66.0) Gecko/20100101 Firefox/66.0
+# Design number was non-random = 6
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1558443749,6a5f873a4df0cb5ef43f0b285396930d,PennController,0,0,instructions1,NULL,PennController,0,_Trial_,Start,1558443528382,NULL
+1558443749,6a5f873a4df0cb5ef43f0b285396930d,PennController,0,0,instructions1,NULL,PennController,0,_Trial_,End,1558443529518,NULL
+1558443749,6a5f873a4df0cb5ef43f0b285396930d,PennController,1,0,info1,NULL,PennController,1,_Trial_,Start,1558443529538,NULL
+1558443749,6a5f873a4df0cb5ef43f0b285396930d,PennController,1,0,info1,NULL,Html,info,name,deutsch,1558443540185,text input
+1558443749,6a5f873a4df0cb5ef43f0b285396930d,PennController,1,0,info1,NULL,Html,info,alter,33,1558443540185,text input
+1558443749,6a5f873a4df0cb5ef43f0b285396930d,PennController,1,0,info1,NULL,Html,info,sex,female,1558443540186,radio button
+1558443749,6a5f873a4df0cb5ef43f0b285396930d,PennController,1,0,info1,NULL,Html,info,hand,left,1558443540186,radio button
+1558443749,6a5f873a4df0cb5ef43f0b285396930d,PennController,1,0,info1,NULL,PennController,1,_Trial_,End,1558443540187,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. item.
+# 14. Comments.
+1558443749,6a5f873a4df0cb5ef43f0b285396930d,PennController,5,0,items,NULL,PennController,5,_Trial_,Start,1558443540197,4,NULL
+1558443749,6a5f873a4df0cb5ef43f0b285396930d,PennController,5,0,items,NULL,Key,1,Key,32,1558443730807,4,NULL
+1558443749,6a5f873a4df0cb5ef43f0b285396930d,PennController,5,0,items,NULL,Key,1,Key,32,1558443731105,4,NULL
+1558443749,6a5f873a4df0cb5ef43f0b285396930d,PennController,5,0,items,NULL,Key,2,Key,32,1558443731105,4,NULL
+1558443749,6a5f873a4df0cb5ef43f0b285396930d,PennController,5,0,items,NULL,Key,1,Key,32,1558443731326,4,NULL
+1558443749,6a5f873a4df0cb5ef43f0b285396930d,PennController,5,0,items,NULL,Key,2,Key,32,1558443731326,4,NULL
+1558443749,6a5f873a4df0cb5ef43f0b285396930d,PennController,5,0,items,NULL,Key,3,Key,32,1558443731327,4,NULL
+1558443749,6a5f873a4df0cb5ef43f0b285396930d,PennController,5,0,items,NULL,Key,1,Key,32,1558443731631,4,NULL
+1558443749,6a5f873a4df0cb5ef43f0b285396930d,PennController,5,0,items,NULL,Key,2,Key,32,1558443731631,4,NULL
+1558443749,6a5f873a4df0cb5ef43f0b285396930d,PennController,5,0,items,NULL,Key,3,Key,32,1558443731631,4,NULL
+1558443749,6a5f873a4df0cb5ef43f0b285396930d,PennController,5,0,items,NULL,Key,1,Key,32,1558443732935,4,NULL
+1558443749,6a5f873a4df0cb5ef43f0b285396930d,PennController,5,0,items,NULL,Key,2,Key,32,1558443732935,4,NULL
+1558443749,6a5f873a4df0cb5ef43f0b285396930d,PennController,5,0,items,NULL,Key,3,Key,32,1558443732935,4,NULL
+1558443749,6a5f873a4df0cb5ef43f0b285396930d,PennController,5,0,items,NULL,PennController,5,_Trial_,End,1558443734358,4,NULL
+1558443749,6a5f873a4df0cb5ef43f0b285396930d,PennController,3,0,items,NULL,PennController,3,_Trial_,Start,1558443734374,2,NULL
+1558443749,6a5f873a4df0cb5ef43f0b285396930d,PennController,3,0,items,NULL,Key,1,Key,32,1558443734927,2,NULL
+1558443749,6a5f873a4df0cb5ef43f0b285396930d,PennController,3,0,items,NULL,Key,1,Key,32,1558443735375,2,NULL
+1558443749,6a5f873a4df0cb5ef43f0b285396930d,PennController,3,0,items,NULL,Key,2,Key,32,1558443735375,2,NULL
+1558443749,6a5f873a4df0cb5ef43f0b285396930d,PennController,3,0,items,NULL,Key,1,Key,32,1558443735756,2,NULL
+1558443749,6a5f873a4df0cb5ef43f0b285396930d,PennController,3,0,items,NULL,Key,2,Key,32,1558443735756,2,NULL
+1558443749,6a5f873a4df0cb5ef43f0b285396930d,PennController,3,0,items,NULL,Key,3,Key,32,1558443735756,2,NULL
+1558443749,6a5f873a4df0cb5ef43f0b285396930d,PennController,3,0,items,NULL,PennController,3,_Trial_,End,1558443739037,2,NULL
+1558443749,6a5f873a4df0cb5ef43f0b285396930d,PennController,2,0,items,NULL,PennController,2,_Trial_,Start,1558443739043,1,NULL
+1558443749,6a5f873a4df0cb5ef43f0b285396930d,PennController,2,0,items,NULL,Key,1,Key,32,1558443739832,1,NULL
+1558443749,6a5f873a4df0cb5ef43f0b285396930d,PennController,2,0,items,NULL,Key,1,Key,32,1558443740247,1,NULL
+1558443749,6a5f873a4df0cb5ef43f0b285396930d,PennController,2,0,items,NULL,Key,2,Key,32,1558443740247,1,NULL
+1558443749,6a5f873a4df0cb5ef43f0b285396930d,PennController,2,0,items,NULL,Key,1,Key,32,1558443740958,1,NULL
+1558443749,6a5f873a4df0cb5ef43f0b285396930d,PennController,2,0,items,NULL,Key,2,Key,32,1558443740958,1,NULL
+1558443749,6a5f873a4df0cb5ef43f0b285396930d,PennController,2,0,items,NULL,Key,3,Key,32,1558443740958,1,NULL
+1558443749,6a5f873a4df0cb5ef43f0b285396930d,PennController,2,0,items,NULL,PennController,2,_Trial_,End,1558443744163,1,NULL
+1558443749,6a5f873a4df0cb5ef43f0b285396930d,PennController,4,0,items,NULL,PennController,4,_Trial_,Start,1558443744167,3,NULL
+1558443749,6a5f873a4df0cb5ef43f0b285396930d,PennController,4,0,items,NULL,Key,1,Key,32,1558443744584,3,NULL
+1558443749,6a5f873a4df0cb5ef43f0b285396930d,PennController,4,0,items,NULL,Key,1,Key,32,1558443745031,3,NULL
+1558443749,6a5f873a4df0cb5ef43f0b285396930d,PennController,4,0,items,NULL,Key,2,Key,32,1558443745031,3,NULL
+1558443749,6a5f873a4df0cb5ef43f0b285396930d,PennController,4,0,items,NULL,Key,1,Key,32,1558443745376,3,NULL
+1558443749,6a5f873a4df0cb5ef43f0b285396930d,PennController,4,0,items,NULL,Key,2,Key,32,1558443745376,3,NULL
+1558443749,6a5f873a4df0cb5ef43f0b285396930d,PennController,4,0,items,NULL,Key,3,Key,32,1558443745376,3,NULL
+1558443749,6a5f873a4df0cb5ef43f0b285396930d,PennController,4,0,items,NULL,PennController,4,_Trial_,End,1558443748377,3,NULL
+#
+# Results on Wednesday May 22 2019 09:13:52 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:66.0) Gecko/20100101 Firefox/66.0
+# Design number was non-random = 7
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1558516433,2c49f317de306113a69f520533135af7,PennController,0,0,instructions1,NULL,PennController,0,_Trial_,Start,1558516320822,NULL
+1558516433,2c49f317de306113a69f520533135af7,PennController,0,0,instructions1,NULL,PennController,0,_Trial_,End,1558516361640,NULL
+1558516433,2c49f317de306113a69f520533135af7,PennController,1,0,info1,NULL,PennController,1,_Trial_,Start,1558516361652,NULL
+1558516433,2c49f317de306113a69f520533135af7,PennController,1,0,info1,NULL,Html,info,name,spanisch,1558516398340,text input
+1558516433,2c49f317de306113a69f520533135af7,PennController,1,0,info1,NULL,Html,info,alter,29,1558516398341,text input
+1558516433,2c49f317de306113a69f520533135af7,PennController,1,0,info1,NULL,Html,info,sex,male,1558516398341,radio button
+1558516433,2c49f317de306113a69f520533135af7,PennController,1,0,info1,NULL,Html,info,hand,left,1558516398341,radio button
+1558516433,2c49f317de306113a69f520533135af7,PennController,1,0,info1,NULL,PennController,1,_Trial_,End,1558516398341,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. item.
+# 14. Comments.
+1558516433,2c49f317de306113a69f520533135af7,PennController,2,0,items,NULL,PennController,2,_Trial_,Start,1558516398350,1,NULL
+1558516433,2c49f317de306113a69f520533135af7,PennController,2,0,items,NULL,Key,1,Key,32,1558516399879,1,NULL
+1558516433,2c49f317de306113a69f520533135af7,PennController,2,0,items,NULL,Key,1,Key,32,1558516401213,1,NULL
+1558516433,2c49f317de306113a69f520533135af7,PennController,2,0,items,NULL,Key,2,Key,32,1558516401213,1,NULL
+1558516433,2c49f317de306113a69f520533135af7,PennController,2,0,items,NULL,Key,1,Key,32,1558516402752,1,NULL
+1558516433,2c49f317de306113a69f520533135af7,PennController,2,0,items,NULL,Key,2,Key,32,1558516402752,1,NULL
+1558516433,2c49f317de306113a69f520533135af7,PennController,2,0,items,NULL,Key,3,Key,32,1558516402752,1,NULL
+1558516433,2c49f317de306113a69f520533135af7,PennController,2,0,items,NULL,PennController,2,_Trial_,End,1558516407417,1,NULL
+1558516433,2c49f317de306113a69f520533135af7,PennController,4,0,items,NULL,PennController,4,_Trial_,Start,1558516407424,3,NULL
+1558516433,2c49f317de306113a69f520533135af7,PennController,4,0,items,NULL,Key,1,Key,32,1558516409096,3,NULL
+1558516433,2c49f317de306113a69f520533135af7,PennController,4,0,items,NULL,Key,1,Key,32,1558516410164,3,NULL
+1558516433,2c49f317de306113a69f520533135af7,PennController,4,0,items,NULL,Key,2,Key,32,1558516410164,3,NULL
+1558516433,2c49f317de306113a69f520533135af7,PennController,4,0,items,NULL,Key,1,Key,32,1558516411440,3,NULL
+1558516433,2c49f317de306113a69f520533135af7,PennController,4,0,items,NULL,Key,2,Key,32,1558516411440,3,NULL
+1558516433,2c49f317de306113a69f520533135af7,PennController,4,0,items,NULL,Key,3,Key,32,1558516411440,3,NULL
+1558516433,2c49f317de306113a69f520533135af7,PennController,4,0,items,NULL,PennController,4,_Trial_,End,1558516414892,3,NULL
+1558516433,2c49f317de306113a69f520533135af7,PennController,5,0,items,NULL,PennController,5,_Trial_,Start,1558516414897,4,NULL
+1558516433,2c49f317de306113a69f520533135af7,PennController,5,0,items,NULL,Key,1,Key,32,1558516417050,4,NULL
+1558516433,2c49f317de306113a69f520533135af7,PennController,5,0,items,NULL,Key,1,Key,32,1558516418324,4,NULL
+1558516433,2c49f317de306113a69f520533135af7,PennController,5,0,items,NULL,Key,2,Key,32,1558516418324,4,NULL
+1558516433,2c49f317de306113a69f520533135af7,PennController,5,0,items,NULL,Key,1,Key,32,1558516419351,4,NULL
+1558516433,2c49f317de306113a69f520533135af7,PennController,5,0,items,NULL,Key,2,Key,32,1558516419351,4,NULL
+1558516433,2c49f317de306113a69f520533135af7,PennController,5,0,items,NULL,Key,3,Key,32,1558516419351,4,NULL
+1558516433,2c49f317de306113a69f520533135af7,PennController,5,0,items,NULL,PennController,5,_Trial_,End,1558516422863,4,NULL
+1558516433,2c49f317de306113a69f520533135af7,PennController,3,0,items,NULL,PennController,3,_Trial_,Start,1558516422869,2,NULL
+1558516433,2c49f317de306113a69f520533135af7,PennController,3,0,items,NULL,Key,1,Key,32,1558516423630,2,NULL
+1558516433,2c49f317de306113a69f520533135af7,PennController,3,0,items,NULL,Key,1,Key,32,1558516426591,2,NULL
+1558516433,2c49f317de306113a69f520533135af7,PennController,3,0,items,NULL,Key,2,Key,32,1558516426591,2,NULL
+1558516433,2c49f317de306113a69f520533135af7,PennController,3,0,items,NULL,Key,1,Key,32,1558516427720,2,NULL
+1558516433,2c49f317de306113a69f520533135af7,PennController,3,0,items,NULL,Key,2,Key,32,1558516427720,2,NULL
+1558516433,2c49f317de306113a69f520533135af7,PennController,3,0,items,NULL,Key,3,Key,32,1558516427720,2,NULL
+1558516433,2c49f317de306113a69f520533135af7,PennController,3,0,items,NULL,PennController,3,_Trial_,End,1558516432271,2,NULL
